@@ -1,0 +1,10 @@
+.git
+.gitignore
+.vscode
+.env*
+.eslint*
+.stylelintrc
+.prettierrc.js
+docker-compose*
+README.md
+node_modules
